@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0360500d-37d6-4575-ab32-9d095ace10d0" name="Changes" comment="Hello world with Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0360500d-37d6-4575-ab32-9d095ace10d0" name="Changes" comment="Student with Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/score/Student.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -59,10 +58,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/邱勁豪/IdeaProjects/myproject2"
+    "last_opened_file_path": "D:/myproject9"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StudentKotlinKt">
+  <component name="RunManager" selected="Kotlin.StudentKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tom.Hello" />
       <module name="myproject9.main" />
@@ -90,8 +89,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.com.tom.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.StudentKotlinKt" />
         <item itemvalue="Kotlin.PersonKotlinKt" />
         <item itemvalue="Application.Hello" />
@@ -135,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849037602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Student with Kotlin">
+      <created>1655020516281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655020516281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +188,7 @@
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Merged" />
     <MESSAGE value="Hello world with Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world with Kotlin" />
+    <MESSAGE value="Student with Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student with Kotlin" />
   </component>
 </project>
